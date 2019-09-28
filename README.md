@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/francoisvanstaden/UI5/_apis/build/status/fvsgit.pipelines-java?branchName=master)](https://dev.azure.com/francoisvanstaden/UI5/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
